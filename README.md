@@ -1,4 +1,10 @@
 # Web-demo-Skin-Analysis
 
-1. Demo
-https://github.com/Hieptm2002/Web-demo-Skin-Analysis/blob/4015d44e5b61e9d6ff268136ab7c39bc5dfb0fbe/web.mp4
+1. Technology
+   Front-end: html, css, js
+   Back-end: flask API
+2. Demo
+
+https://github.com/user-attachments/assets/3dd13829-c62e-455c-b71f-3770fd0c7971
+
+
